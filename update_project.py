@@ -69,7 +69,7 @@ if __name__ == '__main__':
         app_name + '/apps.py',
         app_name + '/urls.py',
         app_name + '/views.py',
-        app_name + '/templates/' + app_name + '/page.html',
+        app_name + '/templates/' + app_name + '/base.html',
         app_name + '/templates/' + app_name + '/home.html',
     )
 
